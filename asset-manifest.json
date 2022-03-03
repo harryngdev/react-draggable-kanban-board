@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-draggable-kanban-board/static/css/main.048216c5.css",
+    "main.js": "/react-draggable-kanban-board/static/js/main.f02a362e.js",
+    "index.html": "/react-draggable-kanban-board/index.html",
+    "main.048216c5.css.map": "/react-draggable-kanban-board/static/css/main.048216c5.css.map",
+    "main.f02a362e.js.map": "/react-draggable-kanban-board/static/js/main.f02a362e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048216c5.css",
+    "static/js/main.f02a362e.js"
+  ]
+}
